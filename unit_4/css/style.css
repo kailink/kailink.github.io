@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Fontdiner+Swanky);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Boogaloo);
+
+h1 {
+	color: #E65EFF;
+	font-family: 'Fontdiner Swanky', cursive;
+	font-size: 40px;
+	text-align: left;
+	letter-spacing: 2px;
+}
+body {
+	color: #FF564C;
+	text-align: center;
+}
+#slogan {
+	font-style: italic;
+	text-transform: uppercase;
+	font-family: 'Boogaloo', cursive;
+	font-size:24px;
+}
+h3 {
+	font-family: 'Bangers', cursive;
+	letter-spacing: 2px;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+	line-height: 1.25em;
+	color: black;
+}
+#about {
+	line-height: 1.5em;
+}
+img {
+	height: 450px;
+
+}
