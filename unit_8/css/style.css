@@ -15,7 +15,7 @@ nav {
 }
 h1 {
 	font-family: 'Fontdiner Swanky', cursive;
-	font-size: 45px;
+	font-size: 2.5em;
 	text-align: left;
 	letter-spacing: 2px;
 	border-bottom: 3px solid gray;
@@ -29,7 +29,7 @@ ul {
 	list-style-type: none;
 }
 .bar {
-	font-size: 28px;
+	font-size: 1.55em;
 	font-family: 'Passion One', cursive;
 	letter-spacing: 9%;
 	margin-top: -25px;
@@ -54,7 +54,7 @@ img {
 	text-transform: uppercase;
 	font-style: italic;
 	font-family: 'Boogaloo', cursive;
-	font-size:30px;
+	font-size: 1,7em;
 	letter-spacing: 1.5px;
 	border-top: 4px solid gray;
 	border-bottom: 4px solid gray;
@@ -108,7 +108,7 @@ a.partners:hover {
 }
 .navi{
 	line-height: .5em;
-	font-size: 14px;
+	font-size: 0.8em;
 }
 @media only screen and (max-width: 830px) {
 	a.bait {
@@ -130,21 +130,21 @@ a.partners:hover {
 		text-align: center;
 	}
 	#slogan {
-		font-size: 20px;
+		font-size: 1.1em;
 	}
 	#left {
 		float: none;
 		border-right: none;
 		width: 92%;
 		border-bottom: 2px dotted gray;
-		font-size: 16px;
+		font-size: 0.9em;
 	}
 	#middle {
 		float: none;
 		border-right: none;
 		width: 92%;
 		border-bottom: 2px dotted gray;
-		font-size: 16px;
+		font-size: 0.9em;
 		line-height: 1em;
 	}
 	#flavors {
@@ -161,10 +161,10 @@ a.partners:hover {
 		width: 97%;
 	}
 	h1 {
-		font-size: 30px;
+		font-size: 1.7em;
 	}
 	.bar {
-		font-size: 24px;
+		font-size: 1.33em;
 	}
 	#left {
 		line-height: 1em;
